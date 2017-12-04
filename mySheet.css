@@ -1,0 +1,30 @@
+
+body {
+    font-family: sans-serif;
+    vertical-align: center;
+    text-align: center;
+    background-color: lightseagreen;
+}
+button {
+    width: 75px;
+    color: darkslategray;
+    vertical-align: center;
+}
+.fontLarge{
+    font-size: 14px;
+}
+
+/* style all p elements with the class “center” */
+p.center {
+    text-align: center;
+    color: orangered;
+}
+
+/* style all h1, h2 and p elements */
+h1, h2, p {
+    font-family: fantasy;
+    text-align: center;
+    horizontal-align: center;
+    vertical-align: top;
+}
+
